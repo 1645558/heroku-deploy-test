@@ -6,6 +6,7 @@ import pretty from 'pretty';
 
 let container = null;
 
+
 beforeEach(() => {
   // Setup a DOM element as the target
   container = document.createElement('div');
